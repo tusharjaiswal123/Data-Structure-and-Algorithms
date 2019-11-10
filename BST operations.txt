@@ -1,0 +1,141 @@
+#include<iostream>
+using namespace std;
+
+typedef struct BSTNode{
+int data;
+BSTNode *left;
+BSTNode *right;
+};
+
+BSTNode* Find(BSTNode*root,int data)
+{
+    if(root==NULL)
+        return(NULL);
+    if(data<root->data)
+        return(root->left);
+    else if(data>root->right)
+        return(root->right);
+    return(root);
+
+}
+
+void Insert(BSTNode *root,int data)
+{
+    BSTNode *par;
+    BSTNode *node=new BSTNode();
+
+    node->data=data;
+    node->left=NULL;
+    node->right=NULL;
+
+    if(root==NULL)
+        root=node;
+    else
+    {
+        par=root;
+    while(par!=NULL)
+    {
+        if(par->data>data)
+        {
+            if(par->left==NULL)
+                par->left=node;
+            par=par->left;
+        }
+        else if(par->data<data)
+        {
+            if(par->right==NULL)
+                par->right=node;
+            par=par->right;
+        }
+    }
+
+    }
+
+}
+
+BSTNode * Delete(BSTNode* root,int data)
+{
+    BSTNode* temp;
+    if(root==NULL)
+        cout<<"NO such element exist"<<endl;
+    else if(data<root->data)
+        root->left=Delete(root->left,data);
+    else if(data>root->data)
+        root->right=Delete(root->right,data);
+    else
+    {
+        if(root->left && root->right)
+        {
+            temp=Findmax(root->left);
+            root->data=temp->data;
+            root->left=Delete(root->left,root->data);
+        }
+        else
+        {
+            temp=root;
+            if(root->left==NULL)
+                root=root->right;
+            if(root->right==NULL)
+                root=root->left;
+            free(temp);
+        }
+    }
+    return(root);
+}
+
+
+void preorder(BSTNode *root)
+{
+	if(root)
+	{
+		cout<<root->info<<" ";
+		preorder(root->left);
+		preorder(root->right);
+	}
+}
+
+
+void Inorder(BSTNode *root)
+{
+	if(root)
+	{
+		preorder(root->left);
+		cout<<root->info<<" ";
+		preorder(root->right);
+	}
+}
+
+
+void postorder(BSTNode *root)
+{
+	if(root)
+	{
+		preorder(root->left);
+		preorder(root->right);
+		cout<<root->info<<" ";
+	}
+}
+
+
+int main()
+{
+    BSTNode *r;
+    r=NULL;
+    Insert(r,50);
+    Insert(r,40);
+    Insert(r,20);
+    Insert(r,30),
+    Insert(r,60);
+    Insert(r,70);
+    Inorder(r);
+    cout<<endl;
+    Delete(r,50);
+    Inorder(r);
+    cout<<endl;
+    preorder(r);
+    cout<<endl; 
+    postorder(r)
+
+
+    return 0;
+}
