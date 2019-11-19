@@ -12,9 +12,9 @@ BSTNode* Find(BSTNode*root,int data)
     if(root==NULL)
         return(NULL);
     if(data<root->data)
-        return(root->left);
+        return(Find(root->left));
     else if(data>root->right)
-        return(root->right);
+        return(Find(root->right));
     return(root);
 
 }
