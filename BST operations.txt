@@ -53,13 +53,15 @@ void Insert(BSTNode *root,int data)
 
 }
 
-BSTNode *Findmax(BSTNode *root)
-{
-	BSTNode *i=root;
-	while(i && i->right)
-	i=i->left;
-	return(i);
-}
+BSTNode* minValueNode(BSTNode* node) 
+{ 
+    BSTNode* current = node; 
+    
+    while (current && current->left != NULL) 
+        current = current->left; 
+  
+    return current; 
+} 
 
 
 BSTNode * Delete(BSTNode* root,int data)
@@ -75,7 +77,7 @@ BSTNode * Delete(BSTNode* root,int data)
     {
         if(root->left && root->right)
         {
-            temp=Findmax(root->left);
+            temp=minValueNode(root->left);
             root->data=temp->data;
             root->left=Delete(root->left,root->data);
         }
