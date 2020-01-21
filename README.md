@@ -13,3 +13,6 @@
 - [Remove duplicate element from sorted Linked List](https://github.com/tusharjaiswal123/tushar/blob/master/Remove%20duplicate%20element%20from%20sorted%20Linked%20List)
 - [Remove duplicates from an unsorted linked list](https://github.com/tusharjaiswal123/tushar/blob/master/Remove%20duplicates%20from%20an%20unsorted%20LL)
 
+## Stack 
+- [Implementation using array](https://github.com/tusharjaiswal123/Data-Structure/blob/master/stack%20implementation.txt)
+- [Implementation using linked list](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Stack%20implementation%20using%20LL.txt)
