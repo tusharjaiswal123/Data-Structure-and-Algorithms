@@ -1,21 +1,22 @@
 #include<iostream>
+#include<queue>
 using namespace std;
 
-typedef struct BSTNode{
+struct BSTNode{
 int data;
 BSTNode *left;
 BSTNode *right;
 };
 
-BSTNode* Find(BSTNode*root,int data)
+BSTNode* Find(BSTNode* root,int data)
 {
     if(root==NULL)
         return(NULL);
     if(data<root->data)
-        return(Find(root->left));
-    else if(data>root->right)
-        return(Find(root->right));
-    return(root);
+        return Find(root->left,data);
+    else if(data>root->data)
+        return Find(root->right,data);
+    return root;
 
 }
 
@@ -53,15 +54,15 @@ void Insert(BSTNode *root,int data)
 
 }
 
-BSTNode* minValueNode(BSTNode* node) 
-{ 
-    BSTNode* current = node; 
-    
-    while (current && current->left != NULL) 
-        current = current->left; 
-  
-    return current; 
-} 
+BSTNode* minValueNode(BSTNode* node)
+{
+    BSTNode* current = node;
+
+    while (current && current->left != NULL)
+        current = current->left;
+
+    return current;
+}
 
 
 BSTNode * Delete(BSTNode* root,int data)
@@ -99,7 +100,7 @@ void preorder(BSTNode *root)
 {
 	if(root)
 	{
-		cout<<root->info<<" ";
+		cout<<root->data<<" ";
 		preorder(root->left);
 		preorder(root->right);
 	}
@@ -111,7 +112,7 @@ void Inorder(BSTNode *root)
 	if(root)
 	{
 		preorder(root->left);
-		cout<<root->info<<" ";
+		cout<<root->data<<" ";
 		preorder(root->right);
 	}
 }
@@ -123,7 +124,29 @@ void postorder(BSTNode *root)
 	{
 		preorder(root->left);
 		preorder(root->right);
-		cout<<root->info<<" ";
+		cout<<root->data<<" ";
+	}
+}
+
+void levelorder(BSTNode *root)
+{
+	queue<BSTNode *> q;
+	q.push(root);
+
+
+	while(q.empty()==false)
+	{
+	    BSTNode *temp=q.front();
+	    cout<<temp->data<<" ";
+	    q.pop();
+
+
+	    if(temp->left!=NULL)
+            q.push(temp->left);
+
+        if(temp->right!=NULL)
+            q.push(temp->right);
+
 	}
 }
 
@@ -144,8 +167,11 @@ int main()
     Inorder(r);
     cout<<endl;
     preorder(r);
-    cout<<endl; 
-    postorder(r)
+    cout<<endl;
+    postorder(r);
+    cout<<endl;
+
+    levelorder(r);
 
 
     return 0;
