@@ -21,6 +21,7 @@
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree)
 - [Diameter Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Diameter%20of%20binary%20tree)
 - [Mirror Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Mirror%20of%20Binary%20tree)
+- [Minimum and Maximum element in binary tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Minimum%20and%20Maximum%20element%20in%20binary%20tree.cpp)
 
 ## Array
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum)
