@@ -16,3 +16,16 @@
 ## Stack 
 - [Implementation using array](https://github.com/tusharjaiswal123/Data-Structure/blob/master/stack%20implementation.txt)
 - [Implementation using linked list](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Stack%20implementation%20using%20LL.txt)
+
+## Binary tree
+- [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree)
+- [Diameter Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Diameter%20of%20binary%20tree)
+- [Mirror Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Mirror%20of%20Binary%20tree)
+
+## Array
+- [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum)
+
+## Sorting
+- [Merge Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Merge%20sort.txt)
+- [Quick Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Quick%20sort.txt)
+- [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.txt)
