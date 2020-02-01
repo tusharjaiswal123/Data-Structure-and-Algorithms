@@ -1,11 +1,11 @@
 # Data Structure
 ## Linked List
-- [Insertion At begining](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20begining.txt)
-- [Insertion At last](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20last.txt)
-- [Insertion At nth position](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20nth%20position.txt)
-- [Deletion At nth position](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Deleting%20node%20at%20nth%20position.txt)
-- [Reversing using loop](https://github.com/tusharjaiswal123/tushar/blob/master/LL%20reverse%20using%20loop.txt)
-- [Reversing using recursion](https://github.com/tusharjaiswal123/tushar/blob/master/LL%20reverse%20using%20recursion.txt)
+- [Insertion At begining](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20begining.cpp)
+- [Insertion At last](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20last.cpp)
+- [Insertion At nth position](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20nth%20position.cpp)
+- [Deletion At nth position](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Deleting%20node%20at%20nth%20position.cpp)
+- [Reversing using loop](https://github.com/tusharjaiswal123/tushar/blob/master/LL%20reverse%20using%20loop.cpp)
+- [Reversing using recursion](https://github.com/tusharjaiswal123/tushar/blob/master/LL%20reverse%20using%20recursion.cpp)
 - [Detecting loop](https://github.com/tusharjaiswal123/tushar/blob/master/Detecting%20loop%20in%20linked%20list)
 - [Length of loop](https://github.com/tusharjaiswal123/tushar/blob/master/Finding%20length%20of%20loop%20in%20linked%20list)
 - [Reversing Doubly LL](https://github.com/tusharjaiswal123/tushar/blob/master/Reverse%20a%20Doubly%20LL)
@@ -14,8 +14,8 @@
 - [Remove duplicates from an unsorted linked list](https://github.com/tusharjaiswal123/tushar/blob/master/Remove%20duplicates%20from%20an%20unsorted%20LL)
 
 ## Stack 
-- [Implementation using array](https://github.com/tusharjaiswal123/Data-Structure/blob/master/stack%20implementation.txt)
-- [Implementation using linked list](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Stack%20implementation%20using%20LL.txt)
+- [Implementation using array](https://github.com/tusharjaiswal123/Data-Structure/blob/master/stack%20implementation.cpp)
+- [Implementation using linked list](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Stack%20implementation%20using%20LL.cpp)
 
 ## Binary tree
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree)
@@ -35,6 +35,6 @@
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum)
 
 ## Sorting
-- [Merge Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Merge%20sort.txt)
-- [Quick Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Quick%20sort.txt)
-- [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.txt)
+- [Merge Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Merge%20sort.cpp)
+- [Quick Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Quick%20sort.cpp)
+- [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.cpp)
