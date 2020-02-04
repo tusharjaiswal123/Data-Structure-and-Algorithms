@@ -16,7 +16,10 @@
 ## Stack 
 - [Implementation using array](https://github.com/tusharjaiswal123/Data-Structure/blob/master/stack%20implementation.cpp)
 - [Implementation using linked list](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Stack%20implementation%20using%20LL.cpp)
-
+- [Create Stack Using Two Queues](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Stack%20using%20two%20queues.cpp)
+- [Getmin() function](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/get%20minimum%20of%20stack%20in%20o(1)%20time%20and%20o(1)%20space.cpp)
+- [Next Greater Element](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Next%20greater%20element.cpp)
+- [Celebrity Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Celebrity%20Problem.cpp)
 ## Binary tree
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree.cpp)
 - [Diameter Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Diameter%20of%20binary%20tree.cpp)
@@ -29,7 +32,7 @@
 - [Binary Tree To Doubly Linked List](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Binary%20tree%20to%20DLL.cpp)
 - [Boundry Traversal Of Tree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Boundry%20traversal%20of%20binary%20tree.cpp)
 - [Diagonal Traversal Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Diagonal%20travesal%20of%20binary%20tree.cpp)
-- []
+
 
 ## Array
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
