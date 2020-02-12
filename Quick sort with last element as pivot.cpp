@@ -5,7 +5,7 @@ void QuickSort(int A[],int low,int high)
 {
     int k=high-low+1;
     
-    if(k>2)
+    if(k>=2) 
     {
         int lb=low;
         int ub=high;
