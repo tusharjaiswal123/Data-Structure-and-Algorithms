@@ -22,6 +22,9 @@
 - [Celebrity Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Celebrity%20Problem.cpp)
 - [Evaluation Of Postfix Expression](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Evaluation%20of%20postfix%20expression.cpp)
 - [Largest rectangular Area in Histogram](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Largest%20rectangular%20Area%20in%20Histogram.cpp)
+- [Length of longest valid substring](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Length%20of%20longest%20valid%20substring.cpp)
+- [Number of reversal for making expression balanced](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20reversal%20for%20making%20expression%20balanced.cpp)
+- [Maximum absolute difference between nearest left and right smaller element of every element in array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/maximum%20absolute%20difference%20between%20nearest%20left%20and%20right%20smaller%20element%20of%20every%20element%20in%20array.cpp)
 
 ## Binary tree
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree.cpp)
