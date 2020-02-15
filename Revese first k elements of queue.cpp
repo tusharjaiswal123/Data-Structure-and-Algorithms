@@ -1,7 +1,6 @@
 queue<ll> modifyQueue(queue<ll> q, int k)
 {
     stack<ll> s;
-    queue<ll> q1;
     
     for(int i=0;i<k;i++)
     {
@@ -11,14 +10,18 @@ queue<ll> modifyQueue(queue<ll> q, int k)
     
     while(!s.empty())
     {
-        q1.push(s.top());
+        q.push(s.top());
         s.pop();
     }
-    while(!q.empty())
+    
+    ll m=q.size()-k;
+    
+    while(m--)
     {
-        q1.push(q.front());
+        ll w=q.front();
         q.pop();
+        q.push(w);
     }
     
-    return q1;
+    return q;
 }
