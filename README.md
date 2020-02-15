@@ -20,6 +20,9 @@
 - [Getmin() function](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/get%20minimum%20of%20stack%20in%20o(1)%20time%20and%20o(1)%20space.cpp)
 - [Next Greater Element](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Next%20greater%20element.cpp)
 - [Celebrity Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Celebrity%20Problem.cpp)
+- [Evaluation Of Postfix Expression](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Evaluation%20of%20postfix%20expression.cpp)
+- [Largest rectangular Area in Histogram](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Largest%20rectangular%20Area%20in%20Histogram.cpp)
+
 ## Binary tree
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree.cpp)
 - [Diameter Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Diameter%20of%20binary%20tree.cpp)
