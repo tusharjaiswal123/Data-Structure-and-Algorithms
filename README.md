@@ -26,6 +26,16 @@
 - [Number of reversal for making expression balanced](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20reversal%20for%20making%20expression%20balanced.cpp)
 - [Maximum absolute difference between nearest left and right smaller element of every element in array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/maximum%20absolute%20difference%20between%20nearest%20left%20and%20right%20smaller%20element%20of%20every%20element%20in%20array.cpp)
 
+## Queue
+- [Queue using two Stacks](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Queue%20using%20two%20Stacks%20.cpp)
+- [Level Order Traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Level%20Order%20Traversal.cpp)
+- [Queue reversal using recursion](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Queue%20reversal%20using%20recursion.cpp)
+- [Revese first k elements of queue](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Revese%20first%20k%20elements%20of%20queue.cpp)
+- [Max Level Sum in Binary Tree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Max%20Level%20Sum%20in%20Binary%20Tree.cpp)
+- [First negative integer in every window of size k](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/First%20negative%20integer%20in%20every%20window%20of%20size%20k%20.cpp)
+- [First non-repeating character in a stream](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/First%20non-repeating%20character%20in%20a%20stream%20.cpp)
+- [Game with String](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Game%20with%20String.cpp)
+
 ## Binary tree
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree.cpp)
 - [Diameter Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Diameter%20of%20binary%20tree.cpp)
