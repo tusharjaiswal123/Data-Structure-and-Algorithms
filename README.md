@@ -53,6 +53,11 @@
 ## Array
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
 
+## Hashing
+- [Nuts and Bolts Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Nuts%20and%20Bolts%20Problem.cpp)
+- [No. Of Zero Sum Subarrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/No.%20Of%20Zero%20Sum%20Subarrays.cpp)
+- [Group Anagrams Together](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Group%20Anagrams%20Together.cpp)
+
 ## Sorting
 - [Merge Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Merge%20sort.cpp)
 - [Quick Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Quick%20sort.cpp)
