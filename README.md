@@ -63,6 +63,14 @@
 - [Min distance between two given nodes of a Binary Tree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Min%20distance%20between%20two%20given%20nodes%20of%20a%20Binary%20Tree%20.cpp)
 - [Check Leaf at same level](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20Leaf%20at%20same%20level%20.cpp)
 
+## Binary Search Tree
+- [Binary Tree to BST](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Binary%20Tree%20to%20BST%20.cpp)
+- [Lowest Common Ancestor in a BST](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Lowest%20Common%20Ancestor%20in%20a%20BST.cpp)
+- [Merge two BST 's](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Merge%20two%20BST%20's%20.cpp)
+- [Kth largest element in BST](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Kth%20largest%20element%20in%20BST%20.cpp)
+- [Check whether BST contains Dead End](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20whether%20BST%20contains%20Dead%20End%20.cpp)
+- [Populate Inorder Successor for all nodes](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
+
 ## Array
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
 
@@ -77,3 +85,9 @@
 - [Quick Sort With First Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20first%20element%20as%20pivot.cpp)
 - [Quick Sort With Last Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20last%20element%20as%20pivot.cpp)
 - [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.cpp)
+
+# Algorithm
+## Dynamic Programming
+- [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
+- [Count number of hops](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20number%20of%20hops%20.cpp)
+- [Number of Unique Paths](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20Unique%20Paths%20.cpp)
