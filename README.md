@@ -36,6 +36,18 @@
 - [First non-repeating character in a stream](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/First%20non-repeating%20character%20in%20a%20stream%20.cpp)
 - [Game with String](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Game%20with%20String.cpp)
 
+## Heap
+- [Kth smallest element](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Kth%20smallest%20element.cpp)
+- [Is Binary Tree Heap](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Is%20Binary%20Tree%20Heap.cpp)
+- [Minimum Cost of ropes](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Cost%20of%20ropes.cpp)
+- [K largest elements](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/k%20largest%20elements.cpp)
+- [Maximum distinct elements after removing K elements](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Maximum%20distinct%20elements%20after%20removing%20K%20elements%20.cpp)
+- [Min sum formed by digits](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Min%20sum%20formed%20by%20digits.cpp)
+- [Rearrange characters](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rearrange%20characters.cpp)
+- [Merge k Sorted Arrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Merge%20k%20Sorted%20Arrays.cpp)
+- [Merge K sorted linked lists](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Merge%20K%20sorted%20linked%20lists.cpp)
+- [Find median in a stream](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20median%20in%20a%20stream.cpp)
+
 ## Binary tree
 - [Iterative inorder traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Iterative%20inorder%20traversal.cpp)
 - [Iterative Peorder Traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Iterative%20Peorder%20Traversal.cpp)
