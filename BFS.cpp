@@ -1,8 +1,8 @@
-void bfs(vector<int> adj[], bool vis[])
+void bfs(int s,vector<int> adj[], bool vis[])
 {
     queue<int> q;
-    q.push(0);
-    vis[0]=true;
+    q.push(0);  // q.push(s);  s is source
+    vis[0]=true;  // vis[s]=true;
     
     while(!q.empty())
     {
