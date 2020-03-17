@@ -37,7 +37,7 @@ int* topoSort(int V, vector<int> adj[]) {   //dependency //Only possible for DAG
 }
 
 
-## kahn's algorithm 
+## kahns algorithm 
 
 int* topoSort(int V, vector<int> adj[]) {
     
