@@ -91,15 +91,25 @@
 - [No. Of Zero Sum Subarrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/No.%20Of%20Zero%20Sum%20Subarrays.cpp)
 - [Group Anagrams Together](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Group%20Anagrams%20Together.cpp)
 
-## Sorting
-- [Merge Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Merge%20sort.cpp)
-- [Quick Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Quick%20sort.cpp)
-- [Quick Sort With First Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20first%20element%20as%20pivot.cpp)
-- [Quick Sort With Last Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20last%20element%20as%20pivot.cpp)
-- [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.cpp)
+## Graph
+- [BFS](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/BFS.cpp)
+- [DFS](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/DFS.cpp)
+- [Detect cycle in an undirected graph](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Detect%20cycle%20in%20an%20undirected%20graph.cpp)
+- [Detect cycle in a directed graph](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Detect%20cycle%20in%20a%20directed%20graph.cpp)
+- [Topological Sort](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Topological%20Sort.cpp)
+- [Alien Dictionary](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Alien%20Dictionary.cpp)
+- [Flood Fill](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Flood%20Fill.cpp)
 
 # Algorithm
 ## Dynamic Programming
 - [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
 - [Count number of hops](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20number%20of%20hops%20.cpp)
 - [Number of Unique Paths](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20Unique%20Paths%20.cpp)
+
+
+## Sorting
+- [Merge Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Merge%20sort.cpp)
+- [Quick Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Quick%20sort.cpp)
+- [Quick Sort With First Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20first%20element%20as%20pivot.cpp)
+- [Quick Sort With Last Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20last%20element%20as%20pivot.cpp)
+- [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.cpp)
