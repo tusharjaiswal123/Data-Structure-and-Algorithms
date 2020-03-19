@@ -1,4 +1,4 @@
-## USING BFS
+1.USING BFS
 
 bool isCyclicConn(vector<int> adj[],int s,int V,vector<bool>& vis)
 {
@@ -41,7 +41,7 @@ bool isCyclic(vector<int> adj[], int V)
 }
 
 
-## USING DFS
+2.USING DFS
 
 bool isCyclicConn(vector<int> adj[],vector<bool>& vis,int s,int parent)
 {
