@@ -99,6 +99,9 @@
 - [Topological Sort](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Topological%20Sort.cpp)
 - [Alien Dictionary](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Alien%20Dictionary.cpp)
 - [Flood Fill](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Flood%20Fill.cpp)
+- [Rate In Maze](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rate%20In%20Maze.cpp)
+- [Detecting Negative Weight Cycle (Bellman Ford)](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Detecting%20Negative%20Weight%20Cycle%20(Bellman%20Ford).cpp)
+- [Floyd Warshall](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Floyd%20Warshall.cpp)
 
 # Algorithm
 ## Dynamic Programming
