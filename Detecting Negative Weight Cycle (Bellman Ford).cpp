@@ -15,7 +15,6 @@ int main() {
 	    for(i=0;i<e;i++)
 	    {
 	        cin>>x>>y>>w;
-	        
 	        adj[x].push_back({y,w});
 	    }
 	    
