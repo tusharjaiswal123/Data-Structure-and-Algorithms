@@ -69,3 +69,7 @@ int main() {
 }                                    //Bedt case time complexity  O(n2)   
 
 
+If Graph is DAG then we can reduce time complexity 
+1.Obtain topological Sort of the DAG using dfs and store it in array
+2.Now apply only one pass of Bellman Ford by vertex order obtained in step 1
+
