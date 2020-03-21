@@ -102,6 +102,9 @@
 - [Rate In Maze](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rate%20In%20Maze.cpp)
 - [Detecting Negative Weight Cycle (Bellman Ford)](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Detecting%20Negative%20Weight%20Cycle%20(Bellman%20Ford).cpp)
 - [Floyd Warshall](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Floyd%20Warshall.cpp)
+- [Counting Number Of Strongly Connected Componenets(Kosaraju's Algorithm)](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Counting%20Number%20Of%20Strongly%20Connected%20Componenets(Kosaraju's%20Algorithm).cpp)
+- [Check Whether A Graph Is Bipartite Or Not](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20Whether%20A%20Graph%20Is%20Bipartite%20Or%20Not.cpp)
+- [Longest Path In DAG](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Path%20In%20DAG.cpp)
 
 # Algorithm
 ## Dynamic Programming
