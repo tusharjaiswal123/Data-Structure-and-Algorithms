@@ -106,6 +106,7 @@
 - [Check Whether A Graph Is Bipartite Or Not](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20Whether%20A%20Graph%20Is%20Bipartite%20Or%20Not.cpp)
 - [Longest Path In DAG](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Path%20In%20DAG.cpp)
 - [Eulerian Path in an Undirected Graph](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Eulerian%20Path%20in%20an%20Undirected%20Graph.cpp)
+- [Dijkstra's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dijkstra's%20Algorithm.cpp)
 
 # Algorithm
 ## Dynamic Programming
