@@ -29,42 +29,50 @@ int binary_search_left(int a[],int n,int x)
 {
     int l=0;
     int h=n-1;
+    int ans=-1;
     
     while(l<=h)
     {
         int mid=l+(h-l)/2;
         
-        if(a[mid]==x && (mid==0 || a[mid-1]!=a[mid]))
-        return mid;
+        if(a[mid]==x)
+        {
+            ans=mid;
+            h=mid-1;
+        }
         
         else if(a[mid]<x)
         l=mid+1;
         
-        else
+        else if(a[mid]>x)
         h=mid-1;
     }
-    return -1;
+    return ans;
 }
 
 int binary_search_right(int a[],int n,int x)
 {
     int l=0;
     int h=n-1;
+    int ans=-1;
     
     while(l<=h)
     {   
         int mid=l+(h-l)/2;
         
-        if(a[mid]==x && (mid==n-1 || a[mid]!=a[mid+1]) )
-        return mid;
+        if(a[mid]==x)
+        {   
+            ans=mid;
+            l=mid+1;
+        }
         
         else if(a[mid]>x)
         h=mid-1;
         
-        else
+        else if(a[mid]<x)
         l=mid+1;
     }
-    return -1;
+    return ans;
 }
 
 int main() {
