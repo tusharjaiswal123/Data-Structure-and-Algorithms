@@ -109,10 +109,13 @@
 - [Dijkstra's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dijkstra's%20Algorithm.cpp)
 
 # Algorithm
-## Dynamic Programming
-- [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
-- [Count number of hops](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20number%20of%20hops%20.cpp)
-- [Number of Unique Paths](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20Unique%20Paths%20.cpp)
+## Searching 
+### Binary Search
+- [Array Subset of another array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Array%20Subset%20of%20another%20array.cpp)
+- [Find the Highest number](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20the%20Highest%20number.cpp)
+- [First and last occurrences of X](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/First%20and%20last%20occurrences%20of%20X%20.cpp)
+- [Find the closest number](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20the%20closest%20number.cpp)
+- [Counting elements in two arrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Counting%20elements%20in%20two%20arrays.cpp)
 
 
 ## Sorting
@@ -121,3 +124,9 @@
 - [Quick Sort With First Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20first%20element%20as%20pivot.cpp)
 - [Quick Sort With Last Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20last%20element%20as%20pivot.cpp)
 - [Insertion Sort](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Insertion%20sort.cpp)
+
+
+## Dynamic Programming
+- [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
+- [Count number of hops](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20number%20of%20hops%20.cpp)
+- [Number of Unique Paths](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20Unique%20Paths%20.cpp)
