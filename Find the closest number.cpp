@@ -27,49 +27,59 @@ SOLUTION:
 #include <iostream>
 using namespace std;
 
-int binary_search(int a[],int n,int x)
+int binary_search_lower(int a[],int n,int x)
 {   
-    if(x<a[0])
-    return 0;
-    
-    if(x>a[n-1])
-    return n-1;
-    
     int l=0;
     int h=n-1;
-    int mid=0;
+    int ans=-1;
     
     while(l<=h)
-    {
-        mid=l+(h-l)/2;
-        
+    {   
+        int mid=l+(h-l)/2;
         if(a[mid]==x)
-        return mid;
+        {
+            ans=mid;
+            break;
+        }
         
         else if(a[mid]<x)
         {
-            if(mid+1<n && a[mid+1]>x)
-            {
-                if((a[mid+1]-x)<=(x-a[mid]))
-                return mid+1;
-                else
-                return mid;
-            }
+            ans=mid;
             l=mid+1;
         }
         else if(a[mid]>x)
+        h=mid-1;
+    }
+    
+    return ans;
+}
+
+int binary_search_upper(int a[],int n,int x)
+{
+    int l=0;
+    int h=n-1;
+    int ans=-1;
+    
+    while(l<=h)
+    {
+        int mid=l+(h-l)/2;
+        
+        if(a[mid]==x)
         {
-            if(mid-1>=0 && a[mid-1]<x)
-            {
-                if((a[mid]-x)<=(x-a[mid-1]))
-                return mid;
-                else
-                return mid-1;
-            }
+            ans=mid;
+            break;
+        }
+        
+        else if(a[mid]<x)
+        l=mid+1;
+        
+        else if(a[mid]>x)
+        {
+            ans=mid;
             h=mid-1;
         }
     }
-    return mid;
+    return ans;
 }
 
 int main() {
@@ -86,9 +96,23 @@ int main() {
 	    for(i=0;i<n;i++)
 	    cin>>a[i];
 	    
-	    int ans=binary_search(a,n,x);
+	    int u=binary_search_lower(a,n,x);
+	    int v=binary_search_upper(a,n,x);
 	    
-	    cout<<a[ans]<<endl;
+	    if(u==-1)
+	    cout<<a[v]<<endl;
+	    
+	    else if(v==-1)
+	    cout<<a[u]<<endl;
+	    
+	    else
+	    { 
+	        if( abs(x-a[v]) <= abs(x-a[u]) )
+	        cout<<a[v]<<endl;
+	        else
+	        cout<<a[u]<<endl;
+	    }
+	    
 	}
 	return 0;
 }
