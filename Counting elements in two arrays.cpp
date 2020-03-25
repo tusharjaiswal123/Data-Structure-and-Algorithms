@@ -28,21 +28,26 @@ Output:
 SOLUTION:
 
 int binary_search(int arr2[],int n,int x,int l,int h)
-{
+{   
+    int ans=-1;
+    
     while(l<=h)
     {   
         int mid=l+(h-l)/2;
         
-        if(arr2[mid]==x)
-        l=mid+1;
+        if(arr2[mid]>x)
+        {
+            ans=mid;
+            h=mid-1;
+        }
         
         else if(arr2[mid]<x)
         l=mid+1;
         
-        else
-        h=mid-1;
+        else if(arr2[mid]==x)
+        l=mid+1;
     }
-    return l;
+    return ans;
 }
 
 void countEleLessThanOrEqual(int arr1[], int arr2[], 
@@ -54,6 +59,8 @@ void countEleLessThanOrEqual(int arr1[], int arr2[],
     for(i=0;i<m;i++)
     {
         int p=binary_search(arr2,n,arr1[i],0,n-1);
+        if(p==-1)
+        p=n;
         
         cout<<p<<" ";
     }
