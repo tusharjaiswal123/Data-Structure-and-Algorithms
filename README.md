@@ -90,6 +90,8 @@
 - [Nuts and Bolts Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Nuts%20and%20Bolts%20Problem.cpp)
 - [No. Of Zero Sum Subarrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/No.%20Of%20Zero%20Sum%20Subarrays.cpp)
 - [Group Anagrams Together](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Group%20Anagrams%20Together.cpp)
+- [Find Pair Given Difference](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20Pair%20Given%20Difference.cpp)
+- [The problem of identical arrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/The%20problem%20of%20identical%20arrays.cpp)
 
 ## Graph
 - [BFS](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/BFS.cpp)
@@ -116,6 +118,8 @@
 - [First and last occurrences of X](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/First%20and%20last%20occurrences%20of%20X%20.cpp)
 - [Find the closest number](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20the%20closest%20number.cpp)
 - [Counting elements in two arrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Counting%20elements%20in%20two%20arrays.cpp)
+- [K sorted array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/k%20sorted%20array.cpp)
+- [Killing Spree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Killing%20Spree.cpp)
 
 
 ## Sorting
