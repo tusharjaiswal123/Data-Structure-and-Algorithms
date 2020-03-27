@@ -134,6 +134,9 @@
 - [Quick Sort With First Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20first%20element%20as%20pivot.cpp)
 - [Quick Sort With Last Element As Pivot](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Quick%20sort%20with%20last%20element%20as%20pivot.cpp)
 
+![](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/srt.png)
+
+
 
 ## Dynamic Programming
 - [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
