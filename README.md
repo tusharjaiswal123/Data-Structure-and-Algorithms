@@ -120,6 +120,8 @@
 - [Counting elements in two arrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Counting%20elements%20in%20two%20arrays.cpp)
 - [K sorted array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/k%20sorted%20array.cpp)
 - [Killing Spree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Killing%20Spree.cpp)
+- [Aggressive Cow](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Aggressive%20Cow.cpp)
+- [EKO](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/EKO.cpp)
 
 
 ## Sorting
