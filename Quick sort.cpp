@@ -26,6 +26,21 @@ int partition (int arr[], int low, int high)
     return (i + 1);
 }
 
+
+int partition_r(int arr[], int low, int high)   //Randomized Quicksort
+{ 
+    // Generate a random number in between 
+    // low .. high 
+    srand(time(NULL)); 
+    int random = low + rand() % (high - low); 
+  
+    // Swap A[random] with A[high] 
+    swap(arr[random], arr[high]); 
+  
+    return partition(arr, low, high); 
+} 
+
+
 void quickSort(int arr[], int low, int high)
 {
     if (low < high)
