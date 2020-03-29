@@ -66,7 +66,7 @@ int main() {
 	    cout<<"0"<<endl;
 	}
 	return 0;                          //Worst case time complexity O(n3)   n=no. of vertex
-}                                    //Bedt case time complexity  O(n2)   
+}                                    //Best case time complexity  O(n2)   
 
 
 If Graph is DAG then we can reduce time complexity 
