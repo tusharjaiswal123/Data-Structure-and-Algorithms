@@ -136,7 +136,15 @@
 
 ![](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/srt.png)
 
+## Greedy
+- [N meetings in one room](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/N%20meetings%20in%20one%20room.cpp)
+- [Job Sequencing Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Job%20Sequencing%20Problem.cpp)
+- [Huffman Encoding](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Huffman%20Encoding.cpp)
 
+## Backtracking
+- [Rat In A Maze](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rat%20In%20A%20Maze.cpp)
+- [Hamiltonian Path](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Hamiltonian%20Path.cpp)
+- [Solve the Sudoku](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Solve%20the%20Sudoku.cpp)
 
 ## Dynamic Programming
 - [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
