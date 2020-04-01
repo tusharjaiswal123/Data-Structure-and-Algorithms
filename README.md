@@ -140,6 +140,12 @@
 - [N meetings in one room](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/N%20meetings%20in%20one%20room.cpp)
 - [Job Sequencing Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Job%20Sequencing%20Problem.cpp)
 - [Huffman Encoding](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Huffman%20Encoding.cpp)
+- [Fractional Knapsack](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Fractional%20Knapsack.cpp)
+- [Maximize sum after K negations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Maximize%20sum%20after%20K%20negations.cpp)
+- [Maximize ∑arr(i)*i of an Array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Maximize%20∑arr%5Bi%5D*i%20of%20an%20Array.cpp)
+- [Swap and Maximize](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Swap%20and%20Maximize.cpp)
+- [Page Faults in LRU](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Page%20Faults%20in%20LRU.cpp)
+- [Shop in Candy Store](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Shop%20in%20Candy%20Store.cpp)
 
 ## Backtracking
 - [Rat In A Maze](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rat%20In%20A%20Maze.cpp)
