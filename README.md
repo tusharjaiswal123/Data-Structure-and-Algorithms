@@ -146,6 +146,7 @@
 - [Swap and Maximize](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Swap%20and%20Maximize.cpp)
 - [Page Faults in LRU](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Page%20Faults%20in%20LRU.cpp)
 - [Shop in Candy Store](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Shop%20in%20Candy%20Store.cpp)
+- [SPOJ DEFKIN](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/SPOJ%20DEFKIN.cpp)
 
 ## Backtracking
 - [Rat In A Maze](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rat%20In%20A%20Maze.cpp)
