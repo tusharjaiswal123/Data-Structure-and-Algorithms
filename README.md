@@ -157,3 +157,5 @@
 - [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
 - [Count number of hops](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20number%20of%20hops%20.cpp)
 - [Number of Unique Paths](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20of%20Unique%20Paths%20.cpp)
+- [Minimal moves to form a string](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimal%20moves%20to%20form%20a%20string.cpp)
+- [Reach a given score](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Reach%20a%20given%20score.cpp)
