@@ -175,3 +175,8 @@
 - [Shortest Common Supersequence](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Shortest%20Common%20Supersequence.cpp)
 - [LCS of three strings](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/LCS%20of%20three%20strings.cpp)
 - [Longest Common Substring](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Common%20Substring.cpp)
+- [Stickler Thief](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Stickler%20Thief.cpp)
+- [Path in Matrix](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Path%20in%20Matrix.cpp)
+- [Count ways to reach the n'th stair](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20ways%20to%20reach%20the%20n'th%20stair.cpp)
+- [Max length chain](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Max%20length%20chain.cpp)
+- [Largest square formed in a matrix](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Largest%20square%20formed%20in%20a%20matrix.cpp)
