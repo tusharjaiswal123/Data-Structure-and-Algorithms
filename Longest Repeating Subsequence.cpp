@@ -1,8 +1,10 @@
 PROBLEM:
 
-Given a string str, find length of the longest repeating subseequence such that the two subsequence don’t have same string character at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string.
+Given a string str, find length of the longest repeating subseequence such that the two subsequence don’t have same string character
+at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string.
 Input:
-The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. The first line of each test case contains an integer N denoting the length of string str.
+The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. The first line of each test
+case contains an integer N denoting the length of string str.
 The second line of each test case contains the string str consisting only of lower case english alphabets.
 
 Output:
