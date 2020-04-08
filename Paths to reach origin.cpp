@@ -1,8 +1,10 @@
 PROBLEM:
 
-You are standing on a point (n, m) and you want to go to origin (0, 0) by taking steps either left or down i.e. from each point you are allowed to move either in (n-1, m) or (n, m-1). Find the number of paths from point to origin.
+You are standing on a point (n, m) and you want to go to origin (0, 0) by taking steps either left or down i.e. from each point you are
+allowed to move either in (n-1, m) or (n, m-1). Find the number of paths from point to origin.
 Input:
-The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test case contains two integers n and m representing the point.
+The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test case contains two
+integers n and m representing the point.
 Output:
 For each testcase, in a new line, print the total number of paths from point to origin.
 Constraints:
