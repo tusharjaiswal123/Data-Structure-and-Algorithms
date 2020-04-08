@@ -163,6 +163,7 @@
 - [Nth Catalan Number](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Nth%20Catalan%20Number.cpp)
 - [Maximum sum Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Maximum%20sum%20Problem.cpp)
 - [Gold Mine Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Gold%20Mine%20Problem.cpp)
+- [Longest Increasing Subsequence](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Increasing%20Subsequence.cpp)
 - [Increasing Sub Sequence](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Increasing%20Sub%20Sequence.cpp)
 - [Maximum sum increasing subsequence](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Maximum%20sum%20increasing%20subsequence.cpp)
 - [Longest Bitonic subsequence](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Bitonic%20subsequence.cpp)
