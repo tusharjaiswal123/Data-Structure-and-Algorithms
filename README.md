@@ -180,3 +180,8 @@
 - [Count ways to reach the n'th stair](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20ways%20to%20reach%20the%20n'th%20stair.cpp)
 - [Max length chain](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Max%20length%20chain.cpp)
 - [Largest square formed in a matrix](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Largest%20square%20formed%20in%20a%20matrix.cpp)
+- [Minimum Time](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Time.cpp)
+- [Kadane's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Kadane's%20Algorithm.cpp)
+- [Coin Change](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Coin%20Change.cpp)
+- [Minimum Number of Coins](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Number%20of%20Coins.cpp)
+- [Get Minimum Squares](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Get%20Minimum%20Squares.cpp)
