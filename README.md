@@ -186,3 +186,6 @@
 - [Coin Change](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Coin%20Change.cpp)
 - [Minimum Number of Coins](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Number%20of%20Coins.cpp)
 - [Get Minimum Squares](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Get%20Minimum%20Squares.cpp)
+- [K-Palindrome](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/K-Palindrome.cpp)
+- [Dearrangement of balls](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dearrangement%20of%20balls.cpp)
+- [Egg Dropping Puzzle](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Egg%20Dropping%20Puzzle.cpp)
