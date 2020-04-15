@@ -1,4 +1,12 @@
-# Data Structure 
+# Data Structure
+## Array
+- [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
+- [Trapping rainwater](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Trapping%20rainwater.cpp)
+
+## String
+- [Longest Palindromic Substring](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Palindromic%20Substring.cpp)
+- [Longest Substring Without Repeating Characters](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+
 ## Linked List
 - [Insertion At begining](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20begining.cpp)
 - [Insertion At last](https://github.com/tusharjaiswal123/tushar/blob/master/Linked%20list%20Node%20at%20last.cpp)
@@ -12,6 +20,7 @@
 - [Rotate Doubly LL](https://github.com/tusharjaiswal123/tushar/blob/master/Rotate%20doubly%20Linked%20List.cpp)
 - [Remove duplicate element from sorted Linked List](https://github.com/tusharjaiswal123/tushar/blob/master/Remove%20duplicate%20element%20from%20sorted%20Linked%20List.cpp)
 - [Remove duplicates from an unsorted linked list](https://github.com/tusharjaiswal123/tushar/blob/master/Remove%20duplicates%20from%20an%20unsorted%20LL.cpp)
+- [Add Two Numbers](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Add%20Two%20Numbers.cpp)
 
 ## Stack 
 - [Implementation using array](https://github.com/tusharjaiswal123/Data-Structure/blob/master/stack%20implementation.cpp)
@@ -83,8 +92,7 @@
 - [Check whether BST contains Dead End](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20whether%20BST%20contains%20Dead%20End%20.cpp)
 - [Populate Inorder Successor for all nodes](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
 
-## Array
-- [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
+
 
 ## Hashing
 - [Nuts and Bolts Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Nuts%20and%20Bolts%20Problem.cpp)
@@ -189,3 +197,4 @@
 - [K-Palindrome](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/K-Palindrome.cpp)
 - [Dearrangement of balls](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dearrangement%20of%20balls.cpp)
 - [Egg Dropping Puzzle](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Egg%20Dropping%20Puzzle.cpp)
+- [Subset Sum Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Subset%20Sum%20Problem.cpp)
