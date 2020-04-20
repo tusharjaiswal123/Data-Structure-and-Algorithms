@@ -117,6 +117,7 @@
 - [Longest Path In DAG](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Path%20In%20DAG.cpp)
 - [Eulerian Path in an Undirected Graph](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Eulerian%20Path%20in%20an%20Undirected%20Graph.cpp)
 - [Dijkstra's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dijkstra's%20Algorithm.cpp)
+- [Find the number of islands](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20the%20number%20of%20islands.cpp)
 
 # Algorithm
 ## Searching 
@@ -198,3 +199,6 @@
 - [Dearrangement of balls](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dearrangement%20of%20balls.cpp)
 - [Egg Dropping Puzzle](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Egg%20Dropping%20Puzzle.cpp)
 - [Subset Sum Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Subset%20Sum%20Problem.cpp)
+- [Minimum sum partition](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20sum%20partition.cpp)
+- [Perfect Sum Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Perfect%20Sum%20Problem.cpp)
+- [Count of Subarrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20of%20Subarrays.cpp)
