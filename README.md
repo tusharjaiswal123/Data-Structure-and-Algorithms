@@ -2,6 +2,7 @@
 ## Array
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
 - [Trapping rainwater](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Trapping%20rainwater.cpp)
+- [Subarray Sum Equals K](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Subarray%20Sum%20Equals%20K.cpp)
 
 ## String
 - [Longest Palindromic Substring](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Palindromic%20Substring.cpp)
@@ -91,6 +92,7 @@
 - [Kth largest element in BST](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Kth%20largest%20element%20in%20BST%20.cpp)
 - [Check whether BST contains Dead End](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20whether%20BST%20contains%20Dead%20End%20.cpp)
 - [Populate Inorder Successor for all nodes](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Populate%20Inorder%20Successor%20for%20all%20nodes.cpp)
+- [Construct Binary Search Tree from Preorder Traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)
 
 
 
@@ -131,6 +133,7 @@
 - [Killing Spree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Killing%20Spree.cpp)
 - [Aggressive Cow](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Aggressive%20Cow.cpp)
 - [EKO](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/EKO.cpp)
+- [Search in Rotated Sorted Array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Search%20in%20Rotated%20Sorted%20Array.cpp)
 
 
 ## Sorting
