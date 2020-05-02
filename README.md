@@ -3,6 +3,7 @@
 - [Subarray with given sum](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Subarray%20with%20given%20sum.cpp)
 - [Trapping rainwater](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Trapping%20rainwater.cpp)
 - [Subarray Sum Equals K](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Subarray%20Sum%20Equals%20K.cpp)
+- [Factorials of large numbers](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Factorials%20of%20large%20numbers.cpp)
 
 ## String
 - [Longest Palindromic Substring](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Longest%20Palindromic%20Substring.cpp)
@@ -84,6 +85,7 @@
 - [Number Of K-Sum Paths](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Number%20Of%20K-Sum%20Paths.cpp)
 - [Min distance between two given nodes of a Binary Tree](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Min%20distance%20between%20two%20given%20nodes%20of%20a%20Binary%20Tree%20.cpp)
 - [Check Leaf at same level](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Check%20Leaf%20at%20same%20level%20.cpp)
+- [Binary Tree Maximum Path Sum](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Binary%20Tree%20Maximum%20Path%20Sum.cpp)
 
 ## Binary Search Tree
 - [Binary Tree to BST](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Binary%20Tree%20to%20BST%20.cpp)
