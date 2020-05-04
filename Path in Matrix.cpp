@@ -7,10 +7,12 @@ Given a N X N  matrix Matrix[N][N] of positive integers.  There are only three p
 Starting from any column in row 0, return the largest sum of any of the paths up to row N-1.
 Input:
 The first line of the input contains an integer T denoting the number of test cases. The description of T test cases follows.
-The first line of each test case contains a single integer N denoting the order of matrix. Next line contains N*N integers denoting the elements of the matrix in row-major form.
+The first line of each test case contains a single integer N denoting the order of matrix. Next line contains N*N integers denoting the
+elements of the matrix in row-major form.
 
 Output:
-Output the largest sum of any of the paths starting from any cell of row 0 to any cell of row N-1. Print the output of each test case in a new line.
+Output the largest sum of any of the paths starting from any cell of row 0 to any cell of row N-1. Print the output of each test case in
+a new line.
 
 Constraints:
 1<=T<=20
