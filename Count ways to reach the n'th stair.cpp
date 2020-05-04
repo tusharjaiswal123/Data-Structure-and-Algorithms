@@ -1,6 +1,7 @@
 PROBLEM:
 
-There are N stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs at a time. Count the number of ways, the person can reach the top (order does matter).
+There are N stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs at a time.
+	Count the number of ways, the person can reach the top (order does matter).
 Input:
 The first line contains an integer 'T' denoting the total number of test cases. In each test cases, an integer N will be given.
 Output:
