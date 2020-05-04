@@ -1,10 +1,12 @@
 PROBLEM:
 
-Given a string which includes characters a, b, c, ..., z. Where value of a=1, b=2, ..., z=26. Now find the largest increasing sub sequence in the string and print it's length.
+Given a string which includes characters a, b, c, ..., z. Where value of a=1, b=2, ..., z=26. Now find the largest increasing sub
+sequence in the string and print it's length.
 
 Note:  Sub sequence doesn't require elements to be consecutively increasing.
 Input:
-The first line contains a single integer T i.e. the number of test cases. The first and the only line of each test case consists of a string S.
+The first line contains a single integer T i.e. the number of test cases. The first and the only line of each test case consists of
+a string S.
 
 Output:
 In one line print the length of the largest increasing sub sequence in the string.
