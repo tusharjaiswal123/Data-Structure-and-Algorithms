@@ -1,8 +1,12 @@
 PROBLEM:
 
-You need to write N same characters on a screen and each time you can insert a character, delete the last character and copy and paste all written characters i.e. after copy operation count of total written character will become twice. Now you are given time for insertion, deletion and copying. You need to output minimum time to write N characters on the screen using these operations.
+You need to write N same characters on a screen and each time you can insert a character, delete the last character and copy and paste
+all written characters i.e. after copy operation count of total written character will become twice. Now you are given time for
+insertion, deletion and copying. You need to output minimum time to write N characters on the screen using these operations.
 Input:
-The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test case contains an integer N denoting the number of same characters to write on screen. The next line contains time for insertion, deletion and copying respectively.
+The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test case contains an
+integer N denoting the number of same characters to write on screen. The next line contains time for insertion, deletion and copying
+respectively.
 Output:
 Print the minimum to write N characters on the screen.
 Constraints:
