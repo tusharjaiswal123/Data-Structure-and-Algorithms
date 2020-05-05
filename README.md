@@ -136,6 +136,7 @@
 - [Aggressive Cow](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Aggressive%20Cow.cpp)
 - [EKO](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/EKO.cpp)
 - [Search in Rotated Sorted Array](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Search%20in%20Rotated%20Sorted%20Array.cpp)
+- [Book Allocation](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Book%20Allocation.cpp)
 
 
 ## Sorting
@@ -207,3 +208,5 @@
 - [Minimum sum partition](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20sum%20partition.cpp)
 - [Perfect Sum Problem](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Perfect%20Sum%20Problem.cpp)
 - [Count of Subarrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20of%20Subarrays.cpp)
+- [Count subsequences of type a^i b^j c^k](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20subsequences%20of%20type%20a%5Ei%20b%5Ej%20c%5Ek.cpp)
+- [Skip the work](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Skip%20the%20work.cpp)
