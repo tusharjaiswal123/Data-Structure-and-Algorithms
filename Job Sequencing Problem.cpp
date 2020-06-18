@@ -1,8 +1,11 @@
 PROBLEM:
 
-Given a set of N jobs where each job i has a deadline and profit associated to it. Each job takes 1 unit of time to complete and only one job can be scheduled at a time. We earn the profit if and only if the job is completed by its deadline. The task is to find the maximum profit and the number of jobs done.
+Given a set of N jobs where each job i has a deadline and profit associated to it. Each job takes 1 unit of time to complete and only
+one job can be scheduled at a time. We earn the profit if and only if the job is completed by its deadline. The task is to find the
+maximum profit and the number of jobs done.
 Input:
-The first line of input contains an integer T denoting the number of test cases. Each test case consist of an integer N in first line denoting the number of jobs and the next line consist of Job id, Deadline and the Profit associated to that Job.
+The first line of input contains an integer T denoting the number of test cases. Each test case consist of an integer N in first line
+denoting the number of jobs and the next line consist of Job id, Deadline and the Profit associated to that Job.
 Output:
 Output the number of jobs done and the maximum profit.
 Constraints:
