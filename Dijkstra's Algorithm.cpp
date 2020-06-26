@@ -116,7 +116,7 @@ int main() {
 
 
 
-Implementation of Dijikstra's Algorithm using Priority queue:
+Implementation of Dijikstra's Algorithm using Priority queue
     
     
 
