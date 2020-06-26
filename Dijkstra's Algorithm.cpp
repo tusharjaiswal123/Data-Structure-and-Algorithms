@@ -1,7 +1,8 @@
 PROBLEM:
 You are given a weighted undirected graph. The vertices are enumerated from 1 to n. Your task is to find the shortest path between the vertex 1 and the vertex n.
 Input
-The first line contains two integers n and m (2 ≤ n ≤ 105, 0 ≤ m ≤ 105), where n is the number of vertices and m is the number of edges. Following m lines contain one edge each in form ai, bi and wi (1 ≤ ai, bi ≤ n, 1 ≤ wi ≤ 106), where ai, bi are edge endpoints and wi is the length of the edge.
+The first line contains two integers n and m (2 ≤ n ≤ 105, 0 ≤ m ≤ 105), where n is the number of vertices and m is the number of edges. Following m lines contain one edge
+each in form ai, bi and wi (1 ≤ ai, bi ≤ n, 1 ≤ wi ≤ 106), where ai, bi are edge endpoints and wi is the length of the edge.
 It is possible that the graph has loops and multiple edges between pair of vertices.
 Output
 Write the only integer -1 in case of no path. Write the shortest path in opposite case. If there are many solutions, print any of them.
@@ -109,4 +110,73 @@ int main() {
 
 
     return 0;                 //Time complexity O((v+e)logv)
+}
+
+
+
+
+
+Implementation of Dijikstra's Algorithm using Priority queue:
+    
+    
+
+#include<bits/stdc++.h>
+using namespace std;
+const int inf=1e9;
+int main() {
+
+	int t;
+	cin>>t;
+
+	while(t--)
+	{
+		int n,m,i,x,y,u,s;
+		cin>>n>>m;
+
+		vector<pair<int,int>> adj[n+1];
+		vector<int> dis(n+1,inf);
+		priority_queue< pair<int,int> ,vector< pair<int,int> >,greater< pair<int,int> > > pq;
+
+		for(i=0;i<m;i++)
+		{
+			cin>>x>>y>>u;
+			adj[x].push_back({y,u});
+			adj[y].push_back({x,u});
+		}
+
+		cin>>s;
+		dis[s]=0;
+
+		pq.push({0,s});
+
+		while(!pq.empty())
+		{
+			auto p=pq.top();
+			pq.pop();
+
+			for(auto k:adj[p.second])
+			{
+				if(dis[k.first]>dis[p.second]+k.second)
+				{
+					dis[k.first]=dis[p.second]+k.second;
+					pq.push({dis[k.first],k.first});
+				}
+			}
+		}
+
+		for(i=1;i<=n;i++)
+		{
+			if(dis[i]==inf)
+			dis[i]=-1;
+
+			if(i==s)
+			continue;
+
+			else
+			cout<<dis[i]<<" ";
+		}
+
+		cout<<endl;
+	}
+	return 0;
 }
