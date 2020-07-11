@@ -5,7 +5,7 @@ Note: If two elements have same frequency, then the element which if at first wi
 Input:
 First line consists of test cases T. First line of every test case consists of string of alphabets and second line consists of its frequencies.
 Output:
-Print the HuffmanCodes in single line, with n spaces of each alphabet's HuffmanCodes respectively. In PreOrder form of Binary Tree.
+Print the HuffmanCodes in single line, with n spaces of each alphabets HuffmanCodes respectively. In PreOrder form of Binary Tree.
 Constraints:
 1<=T<=100
 1<=|String length|<=26
