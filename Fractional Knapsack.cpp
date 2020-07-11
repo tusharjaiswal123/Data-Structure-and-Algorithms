@@ -3,7 +3,8 @@ PROBLEM:
 Given weights and values of N items, we need to put these items in a knapsack of capacity W to get the maximum total value in the knapsack.
 Note: Unlike 0/1 knapsack, you are allowed to break the item.
 Input:
-First line consists of an integer T denoting the number of test cases. First line consists of two integers N and W, denoting number of items and weight respectively. Second line of every test case consists of 2*N spaced integers denoting Values and weight respectively. (Value1 Weight1 Value2 Weight2.... ValueN WeightN)
+First line consists of an integer T denoting the number of test cases. First line consists of two integers N and W, denoting number of items and weight respectively. Second
+line of every test case consists of 2*N spaced integers denoting Values and weight respectively. (Value1 Weight1 Value2 Weight2.... ValueN WeightN)
 Output:
 Print the maximum value possible to put items in a knapsack, upto 2 decimal place.
 Constraints:
