@@ -71,3 +71,76 @@ int main()
     printArray(arr, n);
     return 0;
 }
+
+
+
+
+
+Randomized QuickSort:
+
+
+
+
+#include<bits/stdc++.h>
+using namespace std;
+#define mod 1000000007
+#define ll long long 
+
+int partition(int a[],int n,int l,int h)
+{
+	int pivot=a[h];
+	int i=l-1;
+
+	for(int j=l;j<h;j++)
+	{
+		if(a[j]<=pivot)
+		{
+			i++;
+			swap(a[i],a[j]);
+		}
+	}
+	swap(a[h],a[i+1]);
+	return i+1;
+}
+
+int partition_random(int a[],int n,int l,int h)
+{
+	srand(time(NULL));
+	int random = l+rand()%(h-l);
+
+	swap(a[random],a[h]);
+
+	return partition(a,n,l,h);
+}
+
+void quickSort(int a[],int n,int l,int h)
+{
+	if(l<h)
+	{
+		int p=partition_random(a,n,l,h);
+
+		quickSort(a,n,l,p-1);
+		quickSort(a,n,p+1,h);
+	}
+}
+
+int main()
+{   
+    int n,i;
+	cin>>n;
+
+	int a[n];
+
+	for(i=0;i<n;i++)
+	cin>>a[i];
+
+	quickSort(a,n,0,n-1);
+
+	for(i=0;i<n;i++)
+	cout<<a[i]<<" ";
+
+	cout<<endl;
+
+    return 0;
+}
+
