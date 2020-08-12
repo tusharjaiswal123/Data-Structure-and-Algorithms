@@ -1,12 +1,14 @@
 PROBLEM:
 
-Given an incomplete Sudoku configuration in terms of a 9 x 9  2-D square matrix (mat[][]). The task to print a solved Sudoku. For simplicity you may assume that there will be only one unique solution.
+Given an incomplete Sudoku configuration in terms of a 9 x 9  2-D square matrix (mat[][]). The task to print a solved Sudoku. For simplicity you may assume that there will
+be only one unique solution.
 
 Sample Sudoku for you to get the logic for its solution:
 
 
 Input:
-The first line of input contains an integer T denoting the no of test cases. Then T test cases follow. Each test case contains 9*9 space separated values of the matrix mat[][] representing an incomplete Sudoku state where a 0 represents empty block.
+The first line of input contains an integer T denoting the no of test cases. Then T test cases follow. Each test case contains 9*9 space separated values of the matrix
+mat[][] representing an incomplete Sudoku state where a 0 represents empty block.
 Output:
 For each test case, in a new line, print the space separated values of the solution of the the sudoku.
 Constraints:
