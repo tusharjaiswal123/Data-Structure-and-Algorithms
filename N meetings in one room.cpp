@@ -4,7 +4,8 @@ There is one meeting room in a firm. There are N meetings in the form of (S[i], 
 What is the maximum number of meetings that can be accommodated in the meeting room?
 Input:
 The first line of input consists number of the test cases. The description of T test cases is as follows:
-The first line consists of the size of the array, second line has the array containing the starting time of all the meetings each separated by a space, i.e., S [ i ]. And the third line has the array containing the finishing time of all the meetings each separated by a space, i.e., F [ i ].
+The first line consists of the size of the array, second line has the array containing the starting time of all the meetings each separated by a space, i.e., S [ i ].
+And the third line has the array containing the finishing time of all the meetings each separated by a space, i.e., F [ i ].
 Output:
 In each separate line print the order in which the meetings take place separated by a space.
 Constraints:
