@@ -122,6 +122,8 @@
 - [Eulerian Path in an Undirected Graph](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Eulerian%20Path%20in%20an%20Undirected%20Graph.cpp)
 - [Dijkstra's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Dijkstra's%20Algorithm.cpp)
 - [Find the number of islands](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Find%20the%20number%20of%20islands.cpp)
+- [Kruskal's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Kruskal's%20Algorithm.cpp)
+- [Prim's Algorithm](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Prim's%20Algorithm.cpp)
 
 # Algorithm
 ## Searching 
