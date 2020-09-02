@@ -212,3 +212,4 @@
 - [Count of Subarrays](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20of%20Subarrays.cpp)
 - [Count subsequences of type a^i b^j c^k](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Count%20subsequences%20of%20type%20a%5Ei%20b%5Ej%20c%5Ek.cpp)
 - [Skip the work](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Skip%20the%20work.cpp)
+- [Wildcard Pattern Matching](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Wildcard%20Pattern%20Matching.cpp)
