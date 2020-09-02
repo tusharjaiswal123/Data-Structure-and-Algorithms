@@ -61,3 +61,41 @@ int main() {
 	}
 	return 0;
 }
+
+
+
+
+
+O(nlogn) SOLUTION:
+
+
+#include<bits/stdc++.h>
+using namespace std;
+#define mod 1000000007
+#define ll long long 
+
+int main()
+{   
+    ll n,i,j;
+	cin>>n;
+
+	ll a[n];
+	
+	for(i=0;i<n;i++)
+	cin>>a[i];
+
+	multiset<ll> s;
+
+	for(i=0;i<n;i++)
+	{	
+		s.insert(a[i]);
+		auto it=s.find(a[i]);
+		it++;
+		if(it!=s.end())
+		s.erase(it);
+	}
+
+	cout<<s.size()<<endl;
+
+    return 0;
+}
