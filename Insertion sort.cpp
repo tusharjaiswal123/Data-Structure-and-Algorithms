@@ -13,7 +13,7 @@ int main()
         cin>>a[i];
 
     for(i=1;i<n;i++)                          //sorting cards 
-    {                                         //O(n^2) int worst and average case and O(n) in best case
+    {                                         //O(n^2) in worst and average case and O(n) in best case
         temp=a[i];                            //Best if size of array is small(better than merge and quick sort)
         j=i-1;
         while(j>=0&&a[j]>temp)
