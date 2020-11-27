@@ -89,3 +89,71 @@ int main() {
 	    
 	return 0;
 }
+
+
+
+O(sum) space complexity:
+
+
+class Solution {
+public:
+    bool canPartition(vector<int>& nums) {
+    
+        int i,j,n,s=0;
+        n=nums.size();
+        
+        for(i=0;i<n;i++)
+            s+=nums[i];
+        
+        if(s%2==1)
+            return false;
+        
+        vector<bool> dp(s+1,false);
+        dp[0]=true;
+        
+        for(i=0;i<n;i++)
+        {
+            for(j=s;j>=nums[i];j--)
+            {
+                if(dp[j-nums[i]])
+                    dp[j]=true;
+            }
+        }
+       
+        return dp[s/2];
+    }
+};
+
+
+
+
+time complexity O(n) and space complexity O(max sum/4) solution using bitwise:
+
+
+class Solution {
+public:
+    bool canPartition(vector<int>& nums) {
+    
+        int i,j,n,s=0;
+        n=nums.size();
+        
+        for(i=0;i<n;i++)
+            s+=nums[i];
+        
+        if(s%2==1)
+            return false;
+        
+        bitset<20001> b(1);
+        
+        for(i=0;i<n;i++)
+        {
+            b = b | (b<<nums[i]);
+    
+            
+            if(b[s/2])
+                return true;
+        }
+       
+        return b[s/2];
+    }
+};
