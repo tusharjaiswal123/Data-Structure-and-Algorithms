@@ -22,37 +22,31 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         
-        int n,i,j,ans=INT_MIN,c=0;
-        n=s.length();
+        int i,j,n,ans=0;
+        n = s.size();
         
-        if(n==0)
-            return 0;
-        
-        int dp[n];
-        
-        unordered_set<char> st;  
-    
+
+        vector<bool> vis(256,false);
+        j=0;
         
         for(i=0;i<n;i++)
         {
-            st.insert(s[i]);
-            for(j=i-1;j>=0;j--)
+            if(vis[s[i]]==true)
             {
-                if(st.find(s[j])!=st.end())
+                while(j<i && vis[s[i]]==true)
                 {
-                    break;
+                    vis[s[j]]=false;
+                    j++;
                 }
-                else
-                st.insert(s[j]);
+                
             }
             
-            dp[i]=st.size();
-            st.clear();
-            
-            ans=max(ans,dp[i]);
+            vis[s[i]]=true;
+            ans=max(ans,i-j+1);
         }
-               
-        return ans;
         
+        
+        return ans;
     }
 };
+
