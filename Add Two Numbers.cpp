@@ -16,82 +16,65 @@ SOLUTION:
  * struct ListNode {
  *     int val;
  *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        vector<int> v;
-        v.clear();
         
-        ListNode *t1,*t2,*p,*head=NULL,*prev;
+        ListNode *head,*curr,*n,*p;
+        head=NULL;
+        int s,c=0,a,b;
         
-        t1=l1;
-        t2=l2;
-        int c=0,s;
-        
-        while(t1!=NULL && t2!=NULL)
-        {
-            s=(t1->val+t2->val+c)%10;
-            c=(t1->val+t2->val+c)/10;
-            ListNode *newnode=new ListNode(s);
+        while(l1!=NULL || l2!=NULL)
+        {   
+            a=b=0;
+            
+            if(l1!=NULL)
+            {
+                a = l1->val;
+                l1=l1->next;
+            }
+            
+            if(l2!=NULL)
+            {
+                b = l2->val;
+                l2=l2->next;
+            }
+            
+            s = c+a+b;
             if(head==NULL)
             {
-                head=newnode;
+                head = new ListNode(s%10);
+                p = head;
             }
             else
             {
-                prev->next=newnode;
+                p->next = new ListNode(s%10);
+                p = p->next;
             }
-            prev=newnode;
-            t1=t1->next;
-            t2=t2->next;
-            
+            c = s/10;
         }
         
-        while(t1)
+        while(c)
         {
-            s=(t1->val+c)%10;
-            c=(t1->val+c)/10;
-            ListNode *newnode=new ListNode(s);
             if(head==NULL)
             {
-                head=newnode;
+                head = new ListNode(c%10);
+                p = head;
             }
             else
             {
-                prev->next=newnode;
+                p->next = new ListNode(c%10);
+                p = p->next;
             }
-            prev=newnode;
-            
-            t1=t1->next;
+            c=c/10;
         }
         
-        while(t2)
-        {
-            s=(t2->val+c)%10;
-            c=(t2->val+c)/10;
-            ListNode *newnode=new ListNode(s);
-            if(head==NULL)
-            {
-                head=newnode;
-            }
-            else
-            {
-                prev->next=newnode;
-            }
-            prev=newnode;
-            
-            t2=t2->next;
-        }
-        
-        if(c!=0)
-        {
-            ListNode *newnode=new ListNode(c);
-            prev->next=newnode;
-        }
-        
+      
         return head;
     }
 };
