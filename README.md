@@ -169,6 +169,7 @@
 - [Rat In A Maze](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Rat%20In%20A%20Maze.cpp)
 - [Hamiltonian Path](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Hamiltonian%20Path.cpp)
 - [Solve the Sudoku](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Solve%20the%20Sudoku.cpp)
+- [N-Queen](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/N-Queen.cpp)
 
 ## Dynamic Programming
 - [Minimum Operations](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Minimum%20Operations.cpp)
