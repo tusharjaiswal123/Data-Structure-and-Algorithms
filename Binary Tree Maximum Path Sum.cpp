@@ -30,22 +30,41 @@ Output: 42
 SOLUTION:
 
 
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
+    int ans;
 public:
     
-    int sum(TreeNode* root)
+    int helper(TreeNode *root)
     {
         if(root==NULL)
             return 0;
         
-        return max({0,sum(root->left)+root->val,sum(root->right)+root->val});
+        int l = helper(root->left);
+        int r = helper(root->right);
+        
+        ans = max(ans,l+r+root->val);
+        
+        return max(0,max({l,r,0})+root->val);
     }
     
     int maxPathSum(TreeNode* root) {
         if(root==NULL)
-            return INT_MIN;
+            return 0;
         
-        return max({sum(root->left)+sum(root->right)+root->val,maxPathSum(root->left),maxPathSum(root->right)});
+        ans = INT_MIN;
+        helper(root);
         
+        return ans;
     }
 };
