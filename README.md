@@ -61,7 +61,7 @@
 
 ## Binary tree
 - [Iterative inorder traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Iterative%20inorder%20traversal.cpp)
-- [Iterative Peorder Traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Iterative%20Peorder%20Traversal.cpp)
+- [Iterative Preorder Traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Iterative%20Preorder%20Traversal.cpp)
 - [Iterative Postorder Traversal](https://github.com/tusharjaiswal123/Data-Structure-and-Algorithms/blob/master/Iterative%20Postorder%20Traversal.cpp)
 - [Height Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Height%20of%20binary%20tree.cpp)
 - [Diameter Of Binary Tree](https://github.com/tusharjaiswal123/Data-Structure/blob/master/Diameter%20of%20binary%20tree.cpp)
